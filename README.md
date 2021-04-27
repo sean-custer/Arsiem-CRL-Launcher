@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+Follow the below instructions in order to try this code out for yourself. Note: This code is strictly for demo purposes regarding the PacketAnalysisLab, and will not work without an Azure account.
 
 # Installing Terraform #
 
